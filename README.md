@@ -1,6 +1,6 @@
 # business_card
 
-A business card application
+A business card flutter application
 
 ## Getting Started
 
